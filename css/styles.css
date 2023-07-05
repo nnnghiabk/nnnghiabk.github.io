@@ -1,0 +1,29 @@
+h1,
+h2 {
+  text-align: center;
+}
+.container-fluid {
+  padding: 2% 15%;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+.img-recentnew {
+  max-width: 90%;
+}
+.img-phd {
+  max-width: 100%;
+}
+.img-research {
+  max-width: 60%;
+  margin: 10px 300px;
+}
+.reference {
+  line-height: 30px;
+}
+/* .book-1 {
+  max-width: 40%;
+} */
+/* .book-2 {
+  max-width: 40%;
+} */
